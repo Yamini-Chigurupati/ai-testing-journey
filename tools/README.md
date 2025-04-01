@@ -1,0 +1,26 @@
+/ai-testing-journey
+  README.md (overview of your learning journey)
+  /tools
+    /testim
+      notes.md
+      sample-tests/
+    /applitools
+      notes.md
+      sample-tests/
+    /eggplant
+      notes.md
+  /frameworks
+    /selenium-ai
+      notes.md
+      code-examples/
+    /cypress
+    /playwright
+  /ai-concepts
+    bias-testing.md
+    data-validation.md
+  /api-testing
+    postman-collection/
+    graphql-examples/
+  /learning-resources
+    useful-links.md
+    courses-taken.md
